@@ -1,0 +1,10 @@
+imageio
+scikit-image
+easydict
+torch==1.8.0
+torchvision==0.9.0
+
+path.py
+opencv-python
+fast_slic
+tensorboardX
